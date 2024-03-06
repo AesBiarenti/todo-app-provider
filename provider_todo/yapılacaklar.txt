@@ -1,0 +1,7 @@
+Provider İşlemleri
+ --TextField a yazı girdiğimde girdiğim değerle beraber listeye listtile ekleme
+ --Liste içinden Listile Silme
+ --Kaç görevin tamamlandığına dair checkbox kontrolü ve true ve false 
+ değerleri sayma ardından true sayısını missiontexte yazdırma
+ --Tamamlanan ve Tamamlanamayan değerleri filtreleme
+ --SON olarak bu işlemleri local veri tabanı ile kalıcı hale getirme
